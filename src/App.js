@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import PokemonBox from './containers/PokemonBox.js'
+import PokemonBox from './containers/PokemonBox'
 
 function App() {
   return (

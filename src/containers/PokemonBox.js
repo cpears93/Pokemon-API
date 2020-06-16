@@ -10,12 +10,12 @@ class PokemonBox extends Component {
         {
           id: 1,
           name: "Ninetails",
-          url:"https://pokeapi.co/api/v2/pokemon-form/38/"
+          url: "https://pokeapi.co/api/v2/pokemon-form/38/"
         },
         {
           id: 2,
           name: "Mewtwo",
-          url:"https://pokeapi.co/api/v2/pokemon/150/"
+          url: "https://pokeapi.co/api/v2/pokemon/150/"
         }
       ]
     }
